@@ -10,4 +10,4 @@ Technical recruiter who builds. Twelve + years recruiting engineers, data and se
 
 Most of my work lives in private repositories, so my contribution graph shows activity without the code. Happy to walk through any of it live.
 
-**Portfolio:** [add link once it's hosted] · **Book a call:** [calendly.com/kayneelkinsta](https://calendly.com/kayneelkinsta)
+**Portfolio:** [kayneelkinsta-png.github.io/Portfolio](https://kayneelkinsta-png.github.io/Portfolio/)· **Book a call:** [calendly.com/kayneelkinsta](https://calendly.com/kayneelkinsta)
